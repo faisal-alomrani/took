@@ -110,7 +110,7 @@
     "ext": "1500",
     "more_ext": "1501",
     "phone": "",
-    "email": "",
+    "email": "/s3ud@gmail.com",
     "location": "المبنى الرئيسي - البدروم",
     "location_en": "Main Building - Basement",
     "img": "/Bones.png",
